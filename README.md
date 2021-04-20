@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Kinoga 👋
 
-<!--
-**Kinoga/Kinoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm 16 yo student and I learn to code everyday !
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on v-mod a custom FiveM gamemode and an python discord bot.
+- 🌱 I’m currently working with LUA / PYTHON.
+- 
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My statistics !
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rubylium&count_private=true&show_icons=true?theme=buefy)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubylium)](https://github.com/anuraghazra/github-readme-stats)
