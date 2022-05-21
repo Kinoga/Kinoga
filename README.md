@@ -1,6 +1,6 @@
 ### Hi there, I'm Kinoga 👋
 
-## I'm 16 yo student and I learn to code everyday !
+## I'm 17 yo student and I learn to code everyday !
 
 - 🔭 I’m currently working on a custom FiveM gamemode.
 - 🌱 I’m currently working with LUA / PYTHON.
